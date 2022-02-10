@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: wordle/images/wordle/images/wordle_logo_72x72.png</li>
+<li>RequestId: HDFWST480XMGSS43</li>
+<li>HostId: UHcHXT5M0bbZGtn7dh6/ezXXprckJu++TGSIEaIhlhnvl1YCEMC2qNnctWnt6ckCSvy2bPhW7kU=</li>
+</ul>
+<hr/>
+</body>
+</html>
